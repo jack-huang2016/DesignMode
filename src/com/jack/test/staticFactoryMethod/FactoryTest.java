@@ -14,6 +14,7 @@ package com.jack.test.staticFactoryMethod;
  * @since 1.0.0
  */
 public class FactoryTest {
+    
     public static void main(String[] args) {
         Sender sender = SendFactory.produceMail();
         sender.Send();

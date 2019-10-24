@@ -6,7 +6,6 @@
  */
 package com.jack.test.mutipleFactoryMethod;
 
-
 /**
  * 〈测试类〉
  *

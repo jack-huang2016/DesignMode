@@ -14,6 +14,7 @@ package com.jack.test.mutipleFactoryMethod;
  * @since 1.0.0
  */
 public class FactoryTest {
+
     public static void main(String[] args) {
         SendFactory factory = new SendFactory();
         Sender sender = factory.produceMail();
